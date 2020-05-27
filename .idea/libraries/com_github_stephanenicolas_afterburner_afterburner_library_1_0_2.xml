@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.github.stephanenicolas.afterburner:afterburner-library:1.0.2" type="repository">
+    <properties maven-id="com.github.stephanenicolas.afterburner:afterburner-library:1.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/stephanenicolas/afterburner/afterburner-library/1.0.2/afterburner-library-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/findbugs/annotations/1.0.0/annotations-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/3.0/guice-3.0-no_aop.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

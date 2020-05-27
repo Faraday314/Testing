@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Processor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AnnotationProcessorTest/out/artifacts/Processor_jar/Processor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
